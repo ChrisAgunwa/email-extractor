@@ -2,6 +2,7 @@
 The Email Extractor is a Python script designed to extract email addresses from multiple websites simultaneously. It utilizes multithreading to fetch web pages concurrently and extract email addresses efficiently. The extracted email addresses are then saved to a CSV file, ensuring easy access and management.
 
 Features:
+    
     -Extracts email addresses from multiple websites concurrently.
     
     -Utilizes regular expressions for efficient email extraction.
@@ -13,6 +14,7 @@ Features:
     
       
 Requirements:
+    
     -Python 3.x
     
     -Requests library
@@ -22,6 +24,7 @@ Requirements:
 
     
 Usage:
+    
     -Clone the repository or download the script.
     
     -Install the required libraries: pip install requests pandas.
